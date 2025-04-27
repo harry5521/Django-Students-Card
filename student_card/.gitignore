@@ -1,0 +1,3 @@
+__pycache__/
+migrations/
+student_card_db.sql
