@@ -24,4 +24,6 @@ To run this project locally, follow these steps:
   Project URL: https://huraira11.pythonanywhere.com/ <br>
   Admin page: https://huraira11.pythonanywhere.com/admin <br>
   admin id: harry_11 <br>
-  admin pass: harry123
+  admin pass: harry123 <br> <br>
+
+  Django Admin UI missing. its due to deployment using free and limited resources.
