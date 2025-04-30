@@ -21,6 +21,7 @@ To run this project locally, follow these steps:
    Now run the project
 
 ## Admin Dashboard
+  Project URL: https://huraira11.pythonanywhere.com/ 
   Admin page: https://huraira11.pythonanywhere.com/admin <br>
   admin id: harry_11 <br>
   admin pass: harry123
