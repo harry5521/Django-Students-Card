@@ -15,11 +15,12 @@ This is a Django-based backend project that manages student data, department inf
 
 To run this project locally, follow these steps:
 
-   ```
    Clone the Repo
    cd Django-Student-Card
    here create virtualenv to install dependencies included in requirements.txt
    Now run the project
 
+## Admin Dashboard
+  Admin page: https://huraira11.pythonanywhere.com/admin
   admin id: harry_11
   admin pass: harry123
