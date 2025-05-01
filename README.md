@@ -10,15 +10,16 @@ This is a Django-based backend project that manages student data, department inf
 - Pagination for student records
 - Search functionality for students by name, ID, and department
 - Django Admin panel access
+- Click STD-ID to see Student marks details
 
 ## Setup Instructions
 
 To run this project locally, follow these steps:
 
-   Clone the Repo
-   cd Django-Student-Card
-   here create virtualenv to install dependencies included in requirements.txt
-   Now run the project
+   - Clone the Repo <br>
+   - cd Django-Student-Card <br>
+   - Create virtualenv to install dependencies included in requirements.txt <br>
+   - Now run the project <br>
 
 ## Admin Dashboard
   Project URL: https://huraira11.pythonanywhere.com/ <br>
