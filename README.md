@@ -27,4 +27,4 @@ To run this project locally, follow these steps:
   admin id: harry_11 <br>
   admin pass: harry123 <br> <br>
 
-  Django Admin UI missing. its due to deployment using free and limited resources.
+  Note: Django Admin UI missing. its due to deployment using free and limited resources.
